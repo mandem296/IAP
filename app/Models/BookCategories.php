@@ -9,3 +9,4 @@ class BookCategories extends Model
 {
     protected $fillable = ['category'];
 }
+?>
